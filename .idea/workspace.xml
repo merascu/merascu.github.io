@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9a23d7f7-bc08-4455-9b3b-5e1891b70977" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/links/FLAT.html" afterPath="$PROJECT_DIR$/links/FLAT.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -30,8 +29,8 @@
       <file leaf-file-name="FLAT.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/links/FLAT.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="203">
-              <caret line="91" column="12" lean-forward="false" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+            <state relative-caret-position="105">
+              <caret line="71" column="78" lean-forward="true" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
               <folding>
                 <element signature="n#tr#6;n#table#0;n#body#0;n#!!top" expanded="false" />
                 <element signature="n#tr#7;n#table#0;n#body#0;n#!!top" expanded="false" />
@@ -51,7 +50,7 @@
         <entry file="file://$PROJECT_DIR$/links/research.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+              <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
               <folding />
             </state>
           </provider>
@@ -167,7 +166,7 @@
       <workItem from="1515844531951" duration="1539000" />
       <workItem from="1519461464342" duration="9471000" />
       <workItem from="1519812188775" duration="211000" />
-      <workItem from="1519816352236" duration="5386000" />
+      <workItem from="1519816352236" duration="5852000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2018-FLAT">
       <created>1519566931130</created>
@@ -194,7 +193,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="16607000" />
+    <option name="totallyTimeSpent" value="17073000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -354,15 +353,15 @@
     <entry file="file://$PROJECT_DIR$/links/research.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="12" column="4" lean-forward="true" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+          <caret line="12" column="4" lean-forward="false" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links/FLAT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="203">
-          <caret line="91" column="12" lean-forward="false" selection-start-line="91" selection-start-column="12" selection-end-line="91" selection-end-column="12" />
+        <state relative-caret-position="105">
+          <caret line="71" column="78" lean-forward="true" selection-start-line="71" selection-start-column="78" selection-end-line="71" selection-end-column="78" />
           <folding>
             <element signature="n#tr#6;n#table#0;n#body#0;n#!!top" expanded="false" />
             <element signature="n#tr#7;n#table#0;n#body#0;n#!!top" expanded="false" />
