@@ -29,8 +29,8 @@
       <file leaf-file-name="FLAT.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/links/FLAT.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+            <state relative-caret-position="165">
+              <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
               <folding>
                 <element signature="n#style#0;n#p#2;n#body#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#!!top" expanded="true" />
@@ -170,7 +170,7 @@
       <workItem from="1519461464342" duration="9471000" />
       <workItem from="1519812188775" duration="211000" />
       <workItem from="1519816352236" duration="7313000" />
-      <workItem from="1520609054118" duration="2615000" />
+      <workItem from="1520609054118" duration="2805000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2018-FLAT">
       <created>1519566931130</created>
@@ -197,7 +197,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21149000" />
+    <option name="totallyTimeSpent" value="21339000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -414,8 +414,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/links/FLAT.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="33" column="68" lean-forward="false" selection-start-line="33" selection-start-column="68" selection-end-line="33" selection-end-column="68" />
+        <state relative-caret-position="165">
+          <caret line="90" column="4" lean-forward="true" selection-start-line="90" selection-start-column="4" selection-end-line="90" selection-end-column="4" />
           <folding>
             <element signature="n#style#0;n#p#2;n#body#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#li#0;n#ul#0;n#body#0;n#!!top" expanded="true" />
