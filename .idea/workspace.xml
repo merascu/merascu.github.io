@@ -2,12 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a23d7f7-bc08-4455-9b3b-5e1891b70977" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/links/Homework8.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/links/SS2018FLAT/Course8_RegularLanguageProperties.pdf" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/links/SS2018FLAT/FLATHW8.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/links/FLAT.html" afterPath="$PROJECT_DIR$/links/FLAT.html" />
-      <change beforePath="$PROJECT_DIR$/links/SS2018FLAT/Course7_RegularExpressions.pdf" afterPath="$PROJECT_DIR$/links/SS2018FLAT/Course7_RegularExpressions.pdf" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -177,7 +172,7 @@
       <workItem from="1522846342855" duration="1968000" />
       <workItem from="1524041862597" duration="932000" />
       <workItem from="1524670547215" duration="857000" />
-      <workItem from="1525372277046" duration="278000" />
+      <workItem from="1525372277046" duration="391000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2018-FLAT">
       <created>1519566931130</created>
@@ -204,7 +199,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29715000" />
+    <option name="totallyTimeSpent" value="29828000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
