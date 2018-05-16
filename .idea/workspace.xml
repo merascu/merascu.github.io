@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="9a23d7f7-bc08-4455-9b3b-5e1891b70977" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/links/FLAT.html" afterPath="$PROJECT_DIR$/links/FLAT.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -171,7 +170,7 @@
       <workItem from="1524670547215" duration="857000" />
       <workItem from="1525372277046" duration="902000" />
       <workItem from="1525885634521" duration="724000" />
-      <workItem from="1526486800378" duration="577000" />
+      <workItem from="1526486800378" duration="608000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2018-FLAT">
       <created>1519566931130</created>
@@ -198,7 +197,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="31640000" />
+    <option name="totallyTimeSpent" value="31671000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
