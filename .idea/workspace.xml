@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="9a23d7f7-bc08-4455-9b3b-5e1891b70977" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/links/Resources/2018_Erascu_Lucrari_licenta_disertatie.pdf" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/links/MANeUveR.html" afterPath="$PROJECT_DIR$/links/MANeUveR.html" />
-      <change beforePath="$PROJECT_DIR$/links/teaching.html" afterPath="$PROJECT_DIR$/links/teaching.html" />
+      <change beforePath="$PROJECT_DIR$/links/Resources/Erascu_Lucrari_licenta_disertatie.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/links/projects.html" afterPath="$PROJECT_DIR$/links/projects.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -23,6 +24,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="345">
               <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="projects.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/links/projects.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="120">
+              <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
               <folding />
             </state>
           </provider>
@@ -51,11 +62,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MANeUveR.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="MANeUveR.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links/MANeUveR.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="180">
-              <caret line="52" column="88" lean-forward="false" selection-start-line="52" selection-start-column="88" selection-end-line="52" selection-end-column="88" />
+              <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -93,6 +104,7 @@
         <option value="$PROJECT_DIR$/links/FLAT.html" />
         <option value="$PROJECT_DIR$/links/teaching.html" />
         <option value="$PROJECT_DIR$/links/MANeUveR.html" />
+        <option value="$PROJECT_DIR$/links/projects.html" />
       </list>
     </option>
   </component>
@@ -133,6 +145,12 @@
               <item name="merascu.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="merascu.github.io" type="462c0819:PsiDirectoryNode" />
               <item name="links" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="merascu.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="merascu.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="links" type="462c0819:PsiDirectoryNode" />
+              <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -184,7 +202,7 @@
       <workItem from="1525885634521" duration="724000" />
       <workItem from="1526486800378" duration="902000" />
       <workItem from="1527092082563" duration="2422000" />
-      <workItem from="1531939088843" duration="982000" />
+      <workItem from="1531939088843" duration="1438000" />
     </task>
     <task id="LOCAL-00001" summary="upload 2018-FLAT">
       <created>1519566931130</created>
@@ -207,11 +225,18 @@
       <option name="project" value="LOCAL" />
       <updated>1519567569053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="upload teaching, research">
+      <created>1531940094385</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1531940094385</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="35369000" />
+    <option name="totallyTimeSpent" value="35825000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -225,14 +250,14 @@
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="813" extended-state="6" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15081044" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29809725" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32947975" sideWeight="0.49753347" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38848922" sideWeight="0.5729387" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3266187" sideWeight="0.4947146" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38848922" sideWeight="0.42706132" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.38848922" sideWeight="0.42706132" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -253,24 +278,14 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="upload 2018-FLAT" />
-    <option name="LAST_COMMIT_MESSAGE" value="upload 2018-FLAT" />
+    <MESSAGE value="upload teaching, research" />
+    <option name="LAST_COMMIT_MESSAGE" value="upload teaching, research" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/links/FLAT.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2325">
-          <caret line="155" column="24" lean-forward="true" selection-start-line="155" selection-start-column="24" selection-end-line="155" selection-end-column="24" />
-          <folding>
-            <element signature="n#tr#13;n#table#0;n#body#0;n#!!top" expanded="false" />
-            <element signature="n#tr#14;n#table#0;n#body#0;n#!!top" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/links/research.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -682,14 +697,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/links/teaching.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/links/research.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
@@ -701,7 +708,23 @@
     <entry file="file://$PROJECT_DIR$/links/MANeUveR.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="52" column="88" lean-forward="false" selection-start-line="52" selection-start-column="88" selection-end-line="52" selection-end-column="88" />
+          <caret line="58" column="0" lean-forward="true" selection-start-line="58" selection-start-column="0" selection-end-line="58" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links/teaching.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="49" column="0" lean-forward="false" selection-start-line="49" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links/projects.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="15" lean-forward="true" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
           <folding />
         </state>
       </provider>
