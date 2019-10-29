@@ -10,10 +10,42 @@
 
 <DIV>
 
-    <p>Welcome to the Formal Methods Group.
-        We are a group of mainly students and professors interested in applying Formal Methods to various domains.
+    <H1><font color="blue">Welcome to the Formal Methods Group!</font></H1>
+    <p>    We are a group of mainly students and professors interested in applying <i>formal methods</i> to various domains.</p>
 
-        In the Winter Semester 2019/2020, we will focus on the verification of neural networks.
+
+    By <i>formal methods</i> we understand applying <i>symbolic computation</i> methods, in particular <i>computational logic</i>,
+    to rigorously reasoning about properties of computer programs.
+    Relevant program property is <i>correctness</i> with respect to a <i>specification</i>.
+
+    <p>The term <i>formal methods</i> refers to both <i>modeling</i> the system/software as mathematical entities and to the <i>(automated)
+        verification</i> process
+        of system properties in a throughout fashion.</p>
+
+    <p>Formal methods are industrially applied to safety-critical systems, computer chips, or communication protocols.
+    </p>
+
+    <p>Formal methods comprise at least two aspects:</p>
+
+    <ul type="1">
+        <li> <i>Specification</i> means to describe the conditions on the input program variables and the expected behavior of a program in a
+            mathematically precise way.</li>
+        <li> <i>Verification</i> means to demonstrate using mathematical rigor that every possible execution of the program does not
+            crash and indeed satisfies its specification, preferably with computer support (automated reasoners, SAT/SMT solving).</li>
+
+    </ul>
+
+    <p>Many times, the complete verification of a program may is not feasible, hence a <i>light-weight</i> approach is used to increase
+        the confidence in the correctness of a program:<p>
+        <ul type="1">
+            <li> <i>Extended Static Checking</i> and <i>Bounded Model Checking</i> apply logic-based techniques to detect
+                errors in a program.
+            <li> <i>Runtime Verification</i> supervises the execution of a program by an automatically generated monitor
+    that triggers a warning if the program violates its specification.
+        </ul>
+    <p>Also the light-weight approach is supported by automatic tools like static program analyzers, model checkers, etc.</p>
+
+    <p>    <font color="red">In the Winter Semester 2019/2020, we will focus on the verification of neural networks.</font>
     </p>
 
     <H2>News</H2>
@@ -31,7 +63,7 @@
         <li> ...</li>
     </ul>
 
-    <H2>People</H2>
+    <!--<H2>People</H2>
     <ul type="1">
         <li> Adrian Cr&#259;ciun,
             M&#259;d&#259;lina Era&#351;cu,
@@ -40,7 +72,7 @@
             Jessica S&#226;rbu,
             Sebastian &#350;tef&#259;nig&#259,
         Daniela Zaharie</li>
-    </ul>
+    </ul>-->
 
 
 <p>
