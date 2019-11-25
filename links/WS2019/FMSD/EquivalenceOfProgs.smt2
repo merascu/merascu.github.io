@@ -1,0 +1,26 @@
+; smt2 file for the example checking if 2 programs are equivalent. In order to check the 
+; validity, we will check if the negation of the conclusion is UNSAT. This is because SMT 
+; solvers can not be used to check validity
+(declare-const out0 Int)
+(declare-const out1 Int)
+(declare-const out2 Int)
+(declare-const outb Int)
+(declare-const in Int)
+(declare-const G1 Int)
+(declare-const G2 Int)
+(declare-const G3 Int)
+(declare-const G4 Int)
+
+(assert (=> (= out1 out0) (= G1 G2) ) )
+(assert (=> (= out0 in) (= G1 G3) ))
+(assert (=> (= out0 G3) (= G1 G4) ))
+(assert (=> (= out1 in) (= G2 G3) ))
+(assert (=> (= out1 G3) (= G2 G4) ))
+(assert (=> (= in G3) (= G3 G4) ))
+(assert (= out0 in))
+(assert (= out1 G1))
+(assert (= out2 G2))
+(assert (= outb G4))
+(assert (not (= out2 outb)))
+(check-sat)
+(get-model)
